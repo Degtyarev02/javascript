@@ -1,4 +1,5 @@
 # Airbnb JavaScript Style Guide() {
+Changed by Vladimir Degtyarev
 
 Changed by Degtyarev02
 

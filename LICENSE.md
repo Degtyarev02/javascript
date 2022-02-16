@@ -1,6 +1,10 @@
 MIT License
 
+<<<<<<< HEAD
 Changed by Degtyarev02
+=======
+Changed by Vladimir Degtyarev
+>>>>>>> branch2
 
 Copyright (c) 2012 Airbnb
 

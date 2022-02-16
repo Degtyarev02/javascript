@@ -1,5 +1,7 @@
 root = true
 
+
+
 [*]
 indent_style = space
 indent_size = 2
@@ -13,4 +15,8 @@ max_line_length = off
 [CHANGELOG.md]
 indent_size = false
 
+<<<<<<< HEAD
 Degtyarev02
+=======
+Vladimir Degtyarev
+>>>>>>> branch2
