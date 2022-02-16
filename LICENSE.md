@@ -5,7 +5,7 @@ Changed by Degtyarev02
 =======
 Changed by Vladimir Degtyarev
 >>>>>>> branch2
-
+Another change in another repo
 Copyright (c) 2012 Airbnb
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
